@@ -1,4 +1,4 @@
-# Java Centria Course
+# Java Course
 
 Exercises of Java programming via Centria online course, covering use of class libraries associated with the Java environment for developing applications. Course was part of optional studies during the second year at XAMK UAS, Bachelor of Engineering.
 
